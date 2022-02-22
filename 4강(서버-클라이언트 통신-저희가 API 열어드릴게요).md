@@ -27,9 +27,8 @@ API란 어플리케이션 소프트웨어를 구축 및 통합하기위해
 
 - **API의 구조**
 
-![image-20220210191637253](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20220210191637253.png)
+![image](https://user-images.githubusercontent.com/90367004/155151692-16b3dce8-7f80-4e63-b233-0a7da590d044.png)
 
-![image-20220210191851504](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20220210191851504.png)
 
 
 
@@ -37,4 +36,4 @@ API란 어플리케이션 소프트웨어를 구축 및 통합하기위해
 
 
 
-![image-20220210192628861](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20220210192628861.png)
+![image](https://user-images.githubusercontent.com/90367004/155151747-54464655-e338-4ce0-be49-6725ec749f87.png)
