@@ -1,8 +1,6 @@
 # 7강(협업-"git에 커밋했습니다")
 
-![image-20220210195921617](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20220210195921617.png)
-
-![image-20220210200033414](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20220210200033414.png)
+![image](https://user-images.githubusercontent.com/90367004/155152162-319e0b9a-e192-454e-ba47-bc628aa4928c.png)
 
 - **git과 github의 차이**
 
