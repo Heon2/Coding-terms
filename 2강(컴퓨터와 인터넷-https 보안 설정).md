@@ -10,7 +10,7 @@
 
 - **http** : 대화를 주고 받기위한 규칙
 
-![image-20220209202733676](C:/Users/Administrator/AppData/Roaming/Typora/typora-user-images/image-20220209202733676.png)
+![image](https://user-images.githubusercontent.com/90367004/155151332-1363e163-9a73-4d1b-bbf2-2a10b8da2b35.png)
 
 
 
